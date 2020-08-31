@@ -503,3 +503,4 @@ C:\projetos\Prova_UniSolution\UniSolution.CSharp\UniSolution\obj\Debug\UniSoluti
 C:\projetos\Prova_UniSolution\UniSolution.CSharp\UniSolution\obj\Debug\UniSolution.csproj.CopyComplete
 C:\projetos\Prova_UniSolution\UniSolution.CSharp\UniSolution\obj\Debug\UniSolution.dll
 C:\projetos\Prova_UniSolution\UniSolution.CSharp\UniSolution\obj\Debug\UniSolution.pdb
+C:\projetos\Prova_UniSolution\UniSolution.CSharp\UniSolution\obj\Debug\UniSolution.dll.config
